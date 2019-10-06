@@ -1,6 +1,6 @@
 
 # Pyamit
-A Python practise repository!
+A Python practise repository with ds ,deep learning scripts and many more!
 
 ## Structure
 Each script/topic goes inside it's own folder with a README.md
